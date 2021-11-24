@@ -1,0 +1,1323 @@
+[
+    {
+        "preparationId": 30936,
+        "name": "Avocado Tomato Dressing",
+        "oloName": "Avocado Tomato Dressing",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 182997,
+                "name": "lemon vinaigrette"
+            }
+        ]
+    },
+    {
+        "preparationId": 59987,
+        "seqNo": 1,
+        "name": "Drink Size Chai Tea",
+        "oloName": "Drink Size Chai Tea",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 322885,
+                "name": "Regular Chai"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 322886,
+                "name": "Large Chai",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 59989,
+        "seqNo": 2,
+        "name": "Drink Size Hot Chocolate",
+        "oloName": "Drink Size Hot Chocolate",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 322889,
+                "name": "Regular Hot Chocolate",
+                "price": 395
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 322890,
+                "name": "Large Hot Chocolate",
+                "price": 495
+            }
+        ]
+    },
+    {
+        "preparationId": 59985,
+        "seqNo": 3,
+        "name": "Drink Size Latte",
+        "oloName": "Drink Size Latte",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 322881,
+                "name": "Latte Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 322882,
+                "name": "Latte Large",
+                "price": 45
+            }
+        ]
+    },
+    {
+        "preparationId": 59986,
+        "seqNo": 4,
+        "name": "Drink Size Matcha",
+        "oloName": "Drink Size Matcha",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 322883,
+                "name": "Regular Matcha"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 322884,
+                "name": "Large Matcha",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 59988,
+        "seqNo": 5,
+        "name": "Drink Size SH Ice",
+        "oloName": "Drink Size SH Ice",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 322887,
+                "name": "Regular SH Ice C"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 322888,
+                "name": "Large SH Ice C",
+                "price": 55
+            }
+        ]
+    },
+    {
+        "preparationId": 18633,
+        "seqNo": 6,
+        "name": "Cake Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 116577,
+                "name": "6\"",
+                "price": 2500
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 116578,
+                "name": "8\"",
+                "price": 3800
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 116579,
+                "name": "10\"",
+                "price": 4800
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 116580,
+                "name": "12\"",
+                "price": 7000
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 116583,
+                "name": "1/4 Sheet"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 116584,
+                "name": "1/2 Sheet"
+            },
+            {
+                "seqNo": 6,
+                "choiceId": 116585,
+                "name": "Full Sheet"
+            }
+        ]
+    },
+    {
+        "preparationId": 21458,
+        "seqNo": 7,
+        "name": "Catering Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 131033,
+                "name": "Regular",
+                "price": 3900
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 131034,
+                "name": "Large",
+                "price": 5900
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 131035,
+                "name": "Super",
+                "price": 8900
+            }
+        ]
+    },
+    {
+        "preparationId": 49351,
+        "seqNo": 8,
+        "name": "Cheese Foam Mod",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 278194,
+                "name": "Cheese Foam",
+                "price": 100
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 278387,
+                "name": "No Cheese Foam"
+            }
+        ]
+    },
+    {
+        "preparationId": 19640,
+        "seqNo": 9,
+        "name": "Ck/Bf",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 121945,
+                "name": "Ck"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 121946,
+                "name": "Bf"
+            }
+        ]
+    },
+    {
+        "preparationId": 42612,
+        "seqNo": 10,
+        "name": "Coffee Flavors",
+        "oloName": "Coffee Flavors",
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 280800,
+                "name": "Classic"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 134864,
+                "name": "Vanilla",
+                "price": 25
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 240045,
+                "name": "Peppermint",
+                "price": 25
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 240046,
+                "name": "Caramel",
+                "price": 25
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 240047,
+                "name": "Hazelnut",
+                "price": 25
+            }
+        ]
+    },
+    {
+        "preparationId": 18404,
+        "seqNo": 11,
+        "name": "Coffee Prep",
+        "oloName": "Coffee Prep",
+        "storeWide": true,
+        "maxAllowed": 99,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 118056,
+                "name": "Decaf"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 118057,
+                "name": "Room For Cream"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 114930,
+                "name": "Exra Shot",
+                "price": 80
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 118060,
+                "name": "Soy Milk",
+                "price": 80
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 123595,
+                "name": "Skim Milk"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 138363,
+                "name": "Almond Milk",
+                "price": 80
+            },
+            {
+                "seqNo": 6,
+                "choiceId": 134946,
+                "name": "Extra Sauce",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "preparationId": 30408,
+        "seqNo": 12,
+        "name": "Cold/Grill",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 180433,
+                "name": "Cold(Sandwich)"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 180434,
+                "name": "Grill"
+            }
+        ]
+    },
+    {
+        "preparationId": 19745,
+        "seqNo": 13,
+        "name": "Cook Level",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 122521,
+                "name": "medium rare"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 122520,
+                "name": "medium"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 122519,
+                "name": "medium well"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 122518,
+                "name": "well done"
+            }
+        ]
+    },
+    {
+        "preparationId": 51788,
+        "seqNo": 14,
+        "name": "Delivery MT Size",
+        "oloName": "Milk Tea Size R/L",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 290806,
+                "name": "Milk Tea Regular.",
+                "oloName": "Regular",
+                "price": 450
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 290807,
+                "name": "Milk Tea Large.",
+                "oloName": "Large",
+                "price": 595
+            }
+        ]
+    },
+    {
+        "preparationId": 51787,
+        "seqNo": 15,
+        "name": "Delivery Slush Size",
+        "oloName": "Slush Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 290804,
+                "name": "Slush Regular",
+                "oloName": "Regular",
+                "price": 525
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 290805,
+                "name": "Slush Large",
+                "oloName": "Large",
+                "price": 625
+            }
+        ]
+    },
+    {
+        "preparationId": 49811,
+        "seqNo": 16,
+        "name": "Drink Size Black Coffee",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 280174,
+                "name": "Black Coffee Regular",
+                "oloName": "Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 280175,
+                "name": "Black Coffee Large",
+                "oloName": "Large",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 49820,
+        "seqNo": 17,
+        "name": "Drink Size Boost",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 158134,
+                "name": "Tea Pop Regular",
+                "oloName": "Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 158135,
+                "name": "Tea Pop Large",
+                "oloName": "Large",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 49352,
+        "seqNo": 18,
+        "name": "Drink Size Cheese Tea",
+        "oloName": "Drink Size CF",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 278630,
+                "name": "Cheese Tea Regular",
+                "oloName": "Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 278631,
+                "name": "Cheese Tea Large",
+                "oloName": "Large",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "preparationId": 23430,
+        "seqNo": 19,
+        "name": "Drink Size Coffee",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 142728,
+                "name": "Coffee Regular",
+                "oloName": "Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 142731,
+                "name": "Coffee Large",
+                "oloName": "Large",
+                "price": 75
+            }
+        ]
+    },
+    {
+        "preparationId": 18398,
+        "seqNo": 20,
+        "name": "Drink Size F&S",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114872,
+                "name": "F/S Regular",
+                "oloName": "Regular "
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114873,
+                "name": "F/S Large",
+                "oloName": "Large ",
+                "price": 55
+            }
+        ]
+    },
+    {
+        "preparationId": 40140,
+        "seqNo": 21,
+        "name": "Drink Size Hot Choco",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 228680,
+                "name": "Hot Chocolate Regular",
+                "oloName": "Regular",
+                "price": 350
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 228681,
+                "name": "Hot Chocolate Large",
+                "oloName": "Large",
+                "price": 425
+            }
+        ]
+    },
+    {
+        "preparationId": 18391,
+        "seqNo": 22,
+        "name": "Drink Size Milk Tea",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 142718,
+                "name": "Milk Tea Regular",
+                "oloName": "Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 142719,
+                "name": "Milk Tea Large",
+                "oloName": "Large ",
+                "price": 55
+            }
+        ]
+    },
+    {
+        "preparationId": 23429,
+        "seqNo": 23,
+        "name": "Drink Size QQ",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 142722,
+                "name": "QQ Regular",
+                "oloName": "Regular",
+                "price": 375
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 142723,
+                "name": "QQ Large",
+                "oloName": "Large",
+                "price": 450
+            }
+        ]
+    },
+    {
+        "preparationId": 19947,
+        "seqNo": 24,
+        "name": "Drink Size SSL",
+        "oloName": "Drink Size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 116566,
+                "name": "Sea Salt Latte Regular",
+                "oloName": "Regular",
+                "price": 325
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 116567,
+                "name": "Sea Salt Latte Large",
+                "oloName": "Large",
+                "price": 395
+            }
+        ]
+    },
+    {
+        "preparationId": 26420,
+        "seqNo": 25,
+        "name": "Drink size Tea Pop",
+        "oloName": "Drink size",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 158134,
+                "name": "Tea Pop Regular",
+                "oloName": "Regular"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 158135,
+                "name": "Tea Pop Large",
+                "oloName": "Large",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 42607,
+        "seqNo": 26,
+        "name": "Espresso Option",
+        "oloName": "Espresso Option",
+        "storeWide": true,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 118056,
+                "name": "Decaf"
+            }
+        ]
+    },
+    {
+        "preparationId": 18845,
+        "seqNo": 27,
+        "name": "Frappe Flavor",
+        "oloName": "Frappe Flavor",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 118052,
+                "name": "Plain"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 118053,
+                "name": "Strawberry"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 118054,
+                "name": "Mango",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "preparationId": 22151,
+        "seqNo": 28,
+        "name": "Ice Cream Flavor",
+        "oloName": "Ice Cream Flavor",
+        "minAllowed": 1,
+        "maxAllowed": 2,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 297206,
+                "name": "Vanilla*"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 118053,
+                "name": "Strawberry"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 134868,
+                "name": "Choc"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 134865,
+                "name": "Green Tea"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 134866,
+                "name": "Red Bean"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 134867,
+                "name": "Kahlua",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 22152,
+        "seqNo": 29,
+        "name": "Ice Cream Topping",
+        "oloName": "Ice Cream Topping",
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114908,
+                "name": "Boba"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114917,
+                "name": "Rainbow",
+                "oloName": "Rainbow Jelly"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 114912,
+                "name": "Grass J",
+                "oloName": "Grass Jelly"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 114913,
+                "name": "Cof J",
+                "oloName": "Coffee Jelly"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 114910,
+                "name": "C Pud",
+                "oloName": "Custard Pudding"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 114909,
+                "name": "M Pud",
+                "oloName": "Mango Pudding",
+                "multiplier": 0
+            },
+            {
+                "seqNo": 6,
+                "choiceId": 142724,
+                "name": "Chocolate drizzle"
+            },
+            {
+                "seqNo": 7,
+                "choiceId": 142725,
+                "name": "whipped cream"
+            }
+        ]
+    },
+    {
+        "preparationId": 42610,
+        "seqNo": 30,
+        "name": "Ice Level",
+        "oloName": "Ice Level",
+        "storeWide": true,
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114931,
+                "name": "Hot"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114903,
+                "name": "Normal Ice"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 240038,
+                "name": "125% Ice"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 114904,
+                "name": "75% Ice"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 114905,
+                "name": "50% Ice"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 224989,
+                "name": "25% Ice"
+            },
+            {
+                "seqNo": 6,
+                "choiceId": 240037,
+                "name": "0% Ice"
+            }
+        ]
+    },
+    {
+        "preparationId": 54395,
+        "seqNo": 31,
+        "name": "Ice Level (Cold)",
+        "oloName": "Ice Level",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114903,
+                "name": "Normal Ice"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114904,
+                "name": "75% Ice"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 114905,
+                "name": "50% Ice"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 224989,
+                "name": "25% Ice"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 240037,
+                "name": "0% Ice"
+            }
+        ]
+    },
+    {
+        "preparationId": 19639,
+        "seqNo": 32,
+        "name": "Protein Topping",
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 121944,
+                "name": "Add Ck",
+                "oloName": "Add Chicken",
+                "price": 250
+            }
+        ]
+    },
+    {
+        "preparationId": 21461,
+        "seqNo": 33,
+        "name": "Salad/Sandwich Catering",
+        "maxAllowed": 2,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 131050,
+                "name": "Tomato&Cucumber Salad",
+                "price": 150
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 131051,
+                "name": "Garden Salad",
+                "price": 150
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 131052,
+                "name": "Cream Puff",
+                "price": 150
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 131053,
+                "name": "Portuguese Egg Tart",
+                "price": 150
+            }
+        ]
+    },
+    {
+        "preparationId": 22752,
+        "seqNo": 34,
+        "name": "Sandwich Mod",
+        "oloName": "Sandwich Mod",
+        "storeWide": true,
+        "maxAllowed": 3,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 138361,
+                "name": "Add Bacon",
+                "price": 200
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 138362,
+                "name": "Add egg",
+                "price": 150
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 138364,
+                "name": "Add Cheese",
+                "price": 100
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 274107,
+                "name": "Add Avocado",
+                "price": 100
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 134946,
+                "name": "Extra Sauce",
+                "price": 50
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 327649,
+                "name": "on croissant",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 19638,
+        "seqNo": 35,
+        "name": "Side",
+        "oloName": "Side",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 135905,
+                "name": "No Side"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 138318,
+                "name": "Cucumber salad(n)",
+                "oloName": "Cucumber Salad",
+                "price": 200
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 158678,
+                "name": "Chip",
+                "oloName": "Chips",
+                "price": 200
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 138319,
+                "name": "Fries(n)",
+                "oloName": "Fries ",
+                "price": 200
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 138320,
+                "name": "Bacon Cheese Fries",
+                "price": 400
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 138321,
+                "name": "Sweet Potato Fries",
+                "price": 350
+            },
+            {
+                "seqNo": 6,
+                "choiceId": 293363,
+                "name": "Waffle Fries",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "preparationId": 18632,
+        "seqNo": 36,
+        "name": "Spice Mod",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 116574,
+                "name": "Mild"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 116575,
+                "name": "Med",
+                "oloName": "Medium"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 116576,
+                "name": "Spicy"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 117354,
+                "name": "Non spicy",
+                "oloName": "Non Spicy"
+            }
+        ]
+    },
+    {
+        "preparationId": 30935,
+        "seqNo": 37,
+        "name": "Sweet Hut Dressing",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 182995,
+                "name": "Thai Peanut"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 182996,
+                "name": "Honey Mustard"
+            }
+        ]
+    },
+    {
+        "preparationId": 18392,
+        "seqNo": 38,
+        "name": "Sweetness (100%)",
+        "oloName": "Sweetness Level",
+        "storeWide": true,
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114897,
+                "name": "100% Sweet",
+                "oloName": "Normal Sweetness"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114874,
+                "name": "125% Sweet",
+                "oloName": "125% Sweetness"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 114898,
+                "name": "75% Sweet",
+                "oloName": "75% Sweetness"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 114899,
+                "name": "50% Sweet",
+                "oloName": "50% Sweetness"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 114900,
+                "name": "25% Sweet",
+                "oloName": "25% Sweetness"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 114901,
+                "name": "0% Sweet",
+                "oloName": "No Sweetness"
+            }
+        ]
+    },
+    {
+        "preparationId": 42620,
+        "seqNo": 39,
+        "name": "Sweetness (25%)",
+        "oloName": "Sweetness Level",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114897,
+                "name": "100% Sweet",
+                "oloName": "Normal Sweetness"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114874,
+                "name": "125% Sweet",
+                "oloName": "125% Sweetness"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 114898,
+                "name": "75% Sweet",
+                "oloName": "75% Sweetness"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 114899,
+                "name": "50% Sweet",
+                "oloName": "50% Sweetness"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 114900,
+                "name": "25% Sweet",
+                "oloName": "25% Sweetness"
+            }
+        ]
+    },
+    {
+        "preparationId": 42617,
+        "seqNo": 40,
+        "name": "Sweetness (50%)",
+        "oloName": "Sweetness Level",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 114897,
+                "name": "100% Sweet",
+                "oloName": "Normal Sweetness"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114874,
+                "name": "125% Sweet",
+                "oloName": "125% Sweetness"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 114898,
+                "name": "75% Sweet",
+                "oloName": "75% Sweetness"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 114899,
+                "name": "50% Sweet",
+                "oloName": "50% Sweetness"
+            }
+        ]
+    },
+    {
+        "preparationId": 42609,
+        "seqNo": 41,
+        "name": "Toppings",
+        "oloName": "Toppings",
+        "storeWide": true,
+        "minAllowed": 1,
+        "maxAllowed": 99,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 301725,
+                "name": "No Topping"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 114908,
+                "name": "Boba"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 117349,
+                "name": "X Boba",
+                "oloName": "Extra Boba",
+                "multiplier": 0
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 117355,
+                "name": "L Boba",
+                "oloName": "Less Boba"
+            },
+            {
+                "seqNo": 4,
+                "choiceId": 114911,
+                "name": "Aloe",
+                "oloName": "Aloe Vera"
+            },
+            {
+                "seqNo": 5,
+                "choiceId": 114918,
+                "name": "Chia",
+                "oloName": "Chia Seeds"
+            },
+            {
+                "seqNo": 6,
+                "choiceId": 114913,
+                "name": "Cof J",
+                "oloName": "Coffee Jelly"
+            },
+            {
+                "seqNo": 7,
+                "choiceId": 114914,
+                "name": "Lychee J",
+                "oloName": "Lychee Jelly"
+            },
+            {
+                "seqNo": 8,
+                "choiceId": 114909,
+                "name": "M Pud",
+                "oloName": "Mango Pudding",
+                "multiplier": 0
+            },
+            {
+                "seqNo": 9,
+                "choiceId": 114910,
+                "name": "C Pud",
+                "oloName": "Custard Pudding"
+            },
+            {
+                "seqNo": 10,
+                "choiceId": 114912,
+                "name": "Grass J",
+                "oloName": "Grass Jelly"
+            },
+            {
+                "seqNo": 11,
+                "choiceId": 114917,
+                "name": "Rainbow",
+                "oloName": "Rainbow Jelly"
+            },
+            {
+                "seqNo": 12,
+                "choiceId": 277373,
+                "name": "Strawberry Pop"
+            },
+            {
+                "seqNo": 13,
+                "choiceId": 277375,
+                "name": "Crystal Boba"
+            },
+            {
+                "seqNo": 14,
+                "choiceId": 283180,
+                "name": "BRWN Sugar Crystal"
+            },
+            {
+                "seqNo": 15,
+                "choiceId": 278194,
+                "name": "Cheese Foam",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "preparationId": 18631,
+        "seqNo": 42,
+        "name": "Whip Mod",
+        "oloName": "Whip Mod",
+        "minAllowed": 1,
+        "maxAllowed": 1,
+        "choices": [
+            {
+                "seqNo": 0,
+                "choiceId": 116572,
+                "name": "Whip"
+            },
+            {
+                "seqNo": 1,
+                "choiceId": 156645,
+                "name": "Whipped cream with drizzle/powder"
+            },
+            {
+                "seqNo": 2,
+                "choiceId": 116573,
+                "name": "No Whip"
+            },
+            {
+                "seqNo": 3,
+                "choiceId": 280178,
+                "name": "Cheese Foam.",
+                "oloName": "Cheese Foam"
+            }
+        ]
+    }
+]

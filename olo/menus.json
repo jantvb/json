@@ -1,0 +1,3542 @@
+[
+        {
+            "menuId": 16389,
+            "name": "Milk Tea",
+            "enabledOLO": "2014-10-09T15:33:21.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39486,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 1337729,
+                            "name": "Creme Brulee Mt",
+                            "description": "Our made-from-scratch brown sugar caramel, mixed with whole milk. This drink is highly recommended with our honey boba! Warning: highly seductive!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 910713,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 511232,
+                            "name": "Sweet Hut MT",
+                            "description": "Our famous, classic black milk tea is created from an electric mix of Assam and Earl Grey. Lightly sweetened and mixed with boba.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410542,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 511241,
+                            "name": "Thai Iced MT",
+                            "description": "A strongly brewed fermented black tea topped with half-and-half.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff9966",
+                            "recipeId": 410551,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 511238,
+                            "name": "Taro MT",
+                            "description": "Our go-to non-caffeinated drink, taro is a lightly sweet and creamy drink, tinged naturally purple!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9933cc",
+                            "recipeId": 410548,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 511237,
+                            "name": "Strawberry MT",
+                            "description": "Strawberry milk tea captures the eye with its bright pink color, and is a kid favorite for just that reason. Plus, no caffeine!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff99ff",
+                            "recipeId": 410547,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 511239,
+                            "name": "Honey Jas MT",
+                            "description": "A slightly sweeter version of our Jasmine milk tea, Honey Jasmine is a creamy version of our green tea that's been mixed with honey.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410549,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 511233,
+                            "name": "Jas Green MT",
+                            "description": "Green tea scented with jasmine blossoms is made creamy, with its sweetness scaled back a touch to let the fragrance peek through.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410543,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 686999,
+                            "name": "Oolong MT",
+                            "description": "Oolong tea's partially fermenting process gives this drink a unique earthy-tone to this wonderful drink!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 529642,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 511235,
+                            "name": "Caramel MT",
+                            "description": "Our caramel milk tea is a mixture of black milk tea with Caramel flavor.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410545,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 511234,
+                            "name": "Hazelnut MT",
+                            "description": "A blend of black milk tea and hazelnut syrup, our hazelnut version offers a mildly nutty flavor.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410544,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 1008702,
+                            "name": "Royal Milk Tea",
+                            "description": "One part Sweet Hut Milk Tea and one part Jasmine Green Milk Tea gives an enhanced flavor to this specialty drink!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 725911,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 511242,
+                            "name": "Coffee MT",
+                            "description": "Coffee Milk Tea is a customer's favorite, a mixture of our House blended coffee and classic Sweet Hut milk tea.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410552,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 511236,
+                            "name": "Chocolate MT",
+                            "description": "Sweet Hut rich chocolate drink, lightly sweetened with condensed milk!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410546,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 511243,
+                            "name": "HK MT",
+                            "description": "A cousin of Sweet Hut milk tea, Hong Kong black milk tea is less sweet and lends a stronger tea taste than its relative, and is made with brewed Ceylon, evaporated milk, and condensed milk.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410553,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 511244,
+                            "name": "Peppermint MT",
+                            "description": "With a slight flavor kick, this peppermint milk tea has a refreshing taste compared to the traditional milk tea.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410554,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 34917,
+            "name": "Cheese Tea",
+            "seqNo": 1,
+            "enabledOLO": "2019-06-03T18:58:01.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 81863,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 1372801,
+                            "name": "Assam Black",
+                            "description": "Assam tea is a black tea made from the leaves of the Camellia sinensis plant. Black teas are more heavily oxidized, oxidation is a chemical process that creates darker leaves and a more intense flavor, now topped with our signature Cheese Foam!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 942057,
+                            "price": 525
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 1379072,
+                            "name": "Mango Green CT",
+                            "description": "Along with its low caffeine levels, it contains a large quantity of strong, health-promoting antioxidants. The combination of creamy cheese foam, topped over cold mango green tea transform it into a delicious, healthy and guilt-free beverage! ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 958626,
+                            "price": 525
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 1379074,
+                            "name": "Honey Green CT",
+                            "description": "With honey, a classic blending of complementary flavors, green tea can be a soothing hot beverage or an energizing iced refreshment. Perfect combination with silky cream cheese foam atop fresh!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 958838,
+                            "price": 525
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 1379073,
+                            "name": "Lychee Black CT",
+                            "description": "Drinking black tea is an excellent option if you are looking for an alternative of coffee or energy drinks. Lightly sweetened with Lychee syrup and with cream cheese foam top is the secret that makes this fruit tea velvety mouth feel and rich flavor.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 958837,
+                            "price": 525
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 1604313,
+                            "name": "Phoenix Oolong",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 1107629,
+                            "price": 525
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 1637166,
+                            "name": "Osmanthus Oolong",
+                            "description": "This is a traditional well-known Osmanthus Oolong tea features a dark notes of fruit with the hints of flowers, smooth and elegant. This tea is light and fragrant, a perfect choice for a sophisticated afternoon tea tray, topped with cream cheese foam",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 942058,
+                            "price": 525
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16390,
+            "name": "Summer Brz",
+            "seqNo": 2,
+            "enabledOLO": "2017-09-08T17:22:57.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39487,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 511716,
+                            "name": "Mango Green Tea",
+                            "description": "Our pure green tea flavored with mango extract. A popular option, especially in the summer time! Recommended toppings: aloe vera and lychee jellies.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 410747,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 1576732,
+                            "name": "Mango Black Tea",
+                            "description": "Our pure black tea is flavored with mango extract! A popular option, especially in the summer time. Recommended toppings: aloe vera and lychee jellies.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#996600",
+                            "recipeId": 1089041,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 511717,
+                            "name": "Passion Fruit Green Tea",
+                            "description": "For an exotic twist on our original green tea, we've added passion fruit!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 410748,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 1576731,
+                            "name": "Passion Black Tea",
+                            "description": "For an exotic twist on our traditional black tea, we've added passion fruit!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#996600",
+                            "recipeId": 1089043,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 1489544,
+                            "name": "Lychee GT",
+                            "description": "Our chilled green tea gets mixed with Lychee flavor; we recommend adding Lychee jellies for maximum Lychee flavor!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 1029950,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 511720,
+                            "name": "Lychee Black Tea",
+                            "description": "Our chilled black tea gets mixed with Lychee flavor; we recommend adding Lychee jellies for maximum Lychee flavor!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#996600",
+                            "recipeId": 410753,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 519263,
+                            "name": "Orange Green Tea",
+                            "description": "Green tea is lightly sweetened with fresh orange squeezed in, made to order.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffa500",
+                            "recipeId": 410756,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 519476,
+                            "name": "Orange Black Tea",
+                            "description": "Black tea is lightly sweetened with fresh orange squeezed in, made to order.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffa500",
+                            "recipeId": 416475,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 801331,
+                            "name": "Lemon GT",
+                            "description": "Chilled green tea with freshly squeezed lemon juice!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff33",
+                            "recipeId": 603741,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 801330,
+                            "name": "Lemon BT",
+                            "description": "Chilled black tea with freshly squeezed lemon juice!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff33",
+                            "recipeId": 603740,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 511721,
+                            "name": "Peppermint Green Tea",
+                            "description": "Peppermint extract enhances Green tea for a refreshing, minty drink! ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 410757,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 665252,
+                            "name": "Wintermelon GT",
+                            "description": "This light and refreshing Winter melon Green tea is perfect for a hot summer day!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 515650,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 665251,
+                            "name": "Wintermelon BT",
+                            "description": "Try this light and refreshing winter melon drink with black tea base, perfect for summer day!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#996600",
+                            "recipeId": 515649,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 511719,
+                            "name": "Green Tea",
+                            "description": "Jasmine green tea is a healthy drink with great source of antioxidants and energizing caffeine!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 410750,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 511718,
+                            "name": "Honey Green Tea",
+                            "description": "Green tea mixed with nothing but honey, both of which provide great health benefits! Recommended toppings: Honey Boba and Lychee Jelly",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 410749,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 15,
+                            "itemId": 519274,
+                            "name": "Honey BlackTea",
+                            "description": "Black tea mixed with nothing but honey, both of which provide great health benefits! Recommended toppings: Honey Boba and Lychee Jelly.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#996600",
+                            "recipeId": 416312,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 16,
+                            "itemId": 590921,
+                            "name": "Black Tea",
+                            "description": "Assam blended black tea leaves given a full-bodied flavor profile!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#996600",
+                            "recipeId": 472601,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16391,
+            "name": "Coffee",
+            "seqNo": 3,
+            "enabledOLO": "2014-10-09T15:34:12.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39488,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 511559,
+                            "name": "Americano",
+                            "description": "Our specialty Intelligentsia espresso diluted with hot water makes this drink a unique flavor profile than the traditional black coffee!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410609,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                }
+                            ],
+                            "price": 350
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 525708,
+                            "name": "House Coffee",
+                            "description": "Our house coffee contains Intelligentsia French Roast Blend that celebrates the savory side of coffee and pairs well with caramel and chocolate flavors. It emphasizes these flavors and creates a satisfying, smooth finish!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421621,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 142718,
+                                    "charge": 350
+                                },
+                                {
+                                    "choiceId": 142720,
+                                    "charge": 250
+                                },
+                                {
+                                    "choiceId": 142721,
+                                    "charge": 350
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 350
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 250
+                                }
+                            ],
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 659259,
+                            "name": "SH Iced Coffee",
+                            "description": "Our house blended coffee is made fresh daily with non-dairy creamer and sweetener.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 512260,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 350
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                }
+                            ],
+                            "price": 395
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 511556,
+                            "name": "Viet Coffee",
+                            "description": "Cà phê sữa đá translates literally into \"ice coffee,\" and is highly requested by regulars. A shot of espresso mixed with sweetened condensed milk and then poured over ice, this one will give you a delightful energy boost!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff33",
+                            "recipeId": 410605,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 142729,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142728,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142731,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 142730,
+                                    "charge": 475
+                                }
+                            ]
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 511549,
+                            "name": "Sea Salt Latte",
+                            "description": "A year-round staple, ours come in both steamed and iced, topped with unique sea salt whipped cream.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410599,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                }
+                            ],
+                            "price": 395
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 525907,
+                            "name": "Latte",
+                            "description": "A classic latte made with espresso and steamed milk.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421626,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                }
+                            ],
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 525710,
+                            "name": "Cappucino",
+                            "description": "A traditional coffee drink with Intelligentsia espresso topped with steamed milk foam!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421623,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 350
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 511558,
+                            "name": "Chai Tea",
+                            "description": "With a spiced tea flavor, our Chai Tea Latte is our caffeine-free option for those who enjoy the traditional latte without the coffee. ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410608,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 142729,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142728,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142731,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 142730,
+                                    "charge": 475
+                                }
+                            ],
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 525442,
+                            "name": "Mocha",
+                            "description": "Mocha is a chocolate variant of the Classic Latte!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#660000",
+                            "fontColor": "#ffffff",
+                            "recipeId": 421361,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 142728,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 142729,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 142730,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 142731,
+                                    "charge": 475
+                                }
+                            ]
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 511557,
+                            "name": "Matcha Latte",
+                            "description": "A non-conventional caffeine boost, this creamy latte is made with matcha powder, which is believed to offer more health benefits than plain green tea.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ff66",
+                            "recipeId": 410606,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 142728,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 142730,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 142729,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142731,
+                                    "charge": 475
+                                }
+                            ],
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 525406,
+                            "name": "Caramel Macchiato",
+                            "description": "A shot of espresso layered with steamed milk with a caramel drizzle to top it off.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421335,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 142730,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 142731,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 142728,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 142729,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 425
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ]
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 511555,
+                            "name": "White Choc Mocha",
+                            "description": "The white chocolate added makes this mocha drink slightly sweeter than the original version, just the way we like it!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 410604,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 142728,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142730,
+                                    "charge": 475
+                                },
+                                {
+                                    "choiceId": 142729,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142731,
+                                    "charge": 475
+                                }
+                            ]
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 525427,
+                            "name": "Hot Chocolate",
+                            "description": "A Sweet Hut rich chocolate drink, lightly sweetened with condensed milk!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421351,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 250
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 250
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 350
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 350
+                                }
+                            ],
+                            "price": 45
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 525403,
+                            "name": "Single Espresso",
+                            "description": "One shot of our Intelligentsia French Roast espresso!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421331,
+                            "price": 180
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 525404,
+                            "name": "Double Espresso",
+                            "description": "Double shots of our Intelligentsia French Roast espresso!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421332,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 15,
+                            "itemId": 604018,
+                            "name": "Milk",
+                            "description": "Milk is a favorite beverage not only among children but adults as well. It is a protein and calcium-filled drink that has a creamy and refreshing taste.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#fffefe",
+                            "recipeId": 481338,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 250
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 250
+                                }
+                            ]
+                        },
+                        {
+                            "seqNo": 16,
+                            "itemId": 1213341,
+                            "name": "Refill Coffee",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 481339,
+                            "price": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16468,
+            "name": "Frappe",
+            "seqNo": 4,
+            "enabledOLO": "2014-10-14T20:48:54.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39650,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 511733,
+                            "name": "Taro Frappe",
+                            "description": "A frozen, blended version of our customer-favorite taro milk tea! You'll find the same unique purple color.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#6633cc",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410630,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 511736,
+                            "name": "Mocha Frappe",
+                            "description": "Our classic blended beverage consists of a chocolate and espresso flavor!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410631,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 511734,
+                            "name": "Matcha Frappe",
+                            "description": "Powdered green tea is blended with milk and sugar until cold and creamy, an Asian take on the classic American frappe!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ff66",
+                            "recipeId": 410629,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 511741,
+                            "name": "Hazelnut Frappe",
+                            "description": "A frozen take on our hazelnut milk tea that has a nutty flavor. This blended beverage contains a little bit of happiness with every sip!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410634,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 511739,
+                            "name": "White Choc Frappe",
+                            "description": "A creamy, dreamy blended drink flavored with white chocolate. Comes with the option to embellish it with a fruity flavor of your choice!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 410632,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 511743,
+                            "name": "Caramel de Leche Frappe",
+                            "description": "Our Caramel de Leche frappe is a concept loosely based on caramelized sugar. ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410635,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 511740,
+                            "name": "Toffee Cocoa Frappe",
+                            "description": "Extreme flavor with pieces of sweet and buttery toffee paired with a hint of chocolate and mountain grown coffee.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410633,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 525530,
+                            "name": "Coconut Frappe",
+                            "description": "A creamy coconut frappe that is our version of drinking iced coconut milk.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff99",
+                            "recipeId": 421462,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 659260,
+                            "name": "Mint Chip Frappe",
+                            "description": "Refreshing mint with real semi-sweet chocolate chips!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 512261,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 1439240,
+                            "name": "Thai Frappe",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 1000060,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 525474,
+                            "name": "Choc Banana Frappe",
+                            "description": "The perfect banana split drink!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421408,
+                            "price": 595
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16392,
+            "name": "Slush",
+            "seqNo": 5,
+            "enabledOLO": "2017-09-08T17:23:09.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39489,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 511579,
+                            "name": "Mango Slush",
+                            "description": "Our most popular fruit slush, the mango slush is bright orange and frosty. This is a brain freeze experience you'll most likely enjoy with that tangy goodness!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff33",
+                            "recipeId": 410624,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 525478,
+                            "name": "Lychee Slush",
+                            "description": "Caffeine free. Sweet and refreshing, this lychee slush will help you stay cool and embrace summer, one sip at a time",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 421415,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 511583,
+                            "name": "Avocado Slush",
+                            "description": "Avocado slush is a unique twist on a typically savory fruit, blended when ripest with sweetened condensed milk, fresh milk, and ice!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ff66",
+                            "recipeId": 410628,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 511581,
+                            "name": "Pineapple Slush",
+                            "description": "A tangy, icy treat that's equally as bright as the sun, ours is loaded with pineapple goodness.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff00",
+                            "recipeId": 410626,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 660339,
+                            "name": "Peach Pear",
+                            "description": "Caffeine free. This refreshing peach pear brings a cool taste of summer to any season.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 512912,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 511578,
+                            "name": "Four Berries Slush",
+                            "description": "A slush blended with blackberries, blueberries, strawberries, and raspberries! Berrylicious!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410623,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 1446080,
+                            "name": "Strawberry Slush",
+                            "description": "The go-to choice for kids. The strawberry slush is sweet and fruity, the simplest frosty drink.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410621,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 511577,
+                            "name": "Straw Banana Slush",
+                            "description": "Compared to the strawberry slush, our strawberry banana is made a bit creamier because of the banana that has been added! ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410622,
+                            "price": 595
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16393,
+            "name": "Healthy Pop",
+            "seqNo": 6,
+            "enabledOLO": "2017-05-23T18:00:28.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39490,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 511564,
+                            "name": "Honey Lemon Aloe",
+                            "description": "Our Asian version of lemonade is made purely with lemon juice and honey. Ours come with aloe at the bottom, proven to be the perfect combination. Feel free to change it up!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff99",
+                            "recipeId": 410613,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 511563,
+                            "name": "Brwn Sugar Ginger Tea",
+                            "description": "Strong ginger syrup is flavored with brown sugar and created to not only clear your sinuses, but cleanse your palate with its spicy kick.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#660000",
+                            "fontColor": "#fefefe",
+                            "recipeId": 410612,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 857743,
+                            "name": "Brwn Sugar w Milk",
+                            "description": "Strong ginger syrup is flavored with brown sugar and milk created to not only clear your sinuses, but cleanse your palate with its spicy kick.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 636684,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 519297,
+                            "name": "Pom Oolong Tea",
+                            "description": "Infused with pomegranate notes, this Pomegranate Oolong Tea is bursting with fruit flavors and bright floral notes.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410616,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142721,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 142720,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 295
+                                }
+                            ],
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 519301,
+                            "name": "Dragon Pearl Jasmine",
+                            "description": "This light tea is loaded with delicious jasmine scented pearls for a captivating and delicious taste.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410618,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 511565,
+                            "name": "Honey Ginseng Tea",
+                            "description": "We sweeten ginseng tea with a touch of honey, a miracle drink packed with health benefits! Best when served hot, this drink has a fragrance that is easily detected.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff99",
+                            "recipeId": 410614,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 325
+                                },
+                                {
+                                    "choiceId": 116567,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 519299,
+                            "name": "Japanese Sencha",
+                            "description": "Hand picked in the spring for a delicate and clean taste, our Japanese Sencha Tea is a nourishing green tea blend. ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410617,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                }
+                            ],
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 519302,
+                            "name": "Decaf Ceylon",
+                            "description": "This decaffeinated Ceylon Tea is a smooth classic black tea from Ceylon.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410619,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 295
+                                }
+                            ],
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 857741,
+                            "name": "Darjeeling",
+                            "description": "Typically “Darjeeling tea” refers to a black tea that is light to medium-bodied with fruity and floral notes, and perhaps a touch of briskness. It is often considered one of the finest teas in the world.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 636685,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 295
+                                }
+                            ],
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 525458,
+                            "name": "Earl Grey",
+                            "description": "A blend of four black teas, silvertips, and bergamot, this Earl Grey Tea is relaxing with its elegant flavors.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421386,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116566,
+                                    "charge": 295
+                                },
+                                {
+                                    "choiceId": 114873,
+                                    "charge": 395
+                                },
+                                {
+                                    "choiceId": 114872,
+                                    "charge": 295
+                                }
+                            ],
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 1627594,
+                            "name": "Kumquat Lemon Juice",
+                            "description": "An authentic sweet-n-sour drink is made from dried plums, kumquat preserves, and lemon juice.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 421458,
+                            "price": 495
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16398,
+            "name": "Sweet Bread",
+            "seqNo": 7,
+            "enabledOLO": "2021-04-12T16:12:01.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39495,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 510708,
+                            "name": "Egg Tart",
+                            "description": "Derived from an iconic Portuguese treat, our version consists of soft, creamy custard caramelized in a crisp pastry shell.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff00",
+                            "recipeId": 410149,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 510702,
+                            "name": "Coco Tart",
+                            "description": "Glazed with a coat of apricot jelly and finished with a moist, rich coconut filling that is chewy yet crisp.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410143,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 510700,
+                            "name": "Caterpillar",
+                            "description": "Called the caterpillar for its long shape with soft ridges, this bun is filled with whipped cream cheese and dusted with confectioners sugar.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 410140,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 510710,
+                            "name": "Vani Butter",
+                            "description": "A plump sweet bun, sliced open and filled with sweet cream, sprinkled with coconut flakes and topped with dried cranberries.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 410151,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 510698,
+                            "name": "Choc Butter",
+                            "description": "A plump sweet bun, sliced open and filled with chocolate cream, sprinkled with coconut flakes and topped with charming chocolate shavings.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410139,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 1145301,
+                            "name": "Straw Butter",
+                            "description": "A plump sweet bun, sliced open and filled with strawberry sweet cream, sprinkled with coconut flakes and topped with dried cranberries.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff33ff",
+                            "recipeId": 807228,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 510701,
+                            "name": "Choc Nutella",
+                            "description": "A sweet but filled with a Nutella center, topped with charming chocolate shavings.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410141,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 510718,
+                            "name": "Coco Buttrfly",
+                            "description": "Slices of almond cover this uniquely shaped bun, hiding a sweet, buttery coconut paste within.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410142,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 510709,
+                            "name": "Taro Butterfly",
+                            "description": "Slices of almond cover this uniquely shaped bun, hiding a sweet, rooty taro.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9933ff",
+                            "recipeId": 410150,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 510704,
+                            "name": "Custard",
+                            "description": "A favorite of young and old alike, this soft egg bun hides a cool, creamy custard for a smooth taste with creamy, milky undertones.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410145,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 837959,
+                            "name": "Blueberry chee",
+                            "description": "An architectural miracle. The blueberry cheese is made of purple blueberry filling protected by a crusty, chewy dome",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9999cc",
+                            "recipeId": 626933,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 510717,
+                            "name": "Mexi Milk",
+                            "description": "Sweet bun baked with a milk cream filling and enveloped in a coffee flavored bun.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffcc33",
+                            "recipeId": 410158,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 525370,
+                            "name": "Mango Pud",
+                            "description": "The most adorable dessert bun you will ever find. Our mango pudding bun comes shaped like a paw print, hiding in a pocket of creamy mango filling.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff00",
+                            "recipeId": 421299,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 525372,
+                            "name": "HK Polo",
+                            "description": "A bun filled with salted butter, topped with a crunchy crust that resembles a pineapple.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffcc00",
+                            "recipeId": 421301,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 845177,
+                            "name": "Taiwan polo",
+                            "description": "A bun with a balanced texture, the Taiwanese polo features soft bread inside encased in an exterior studded with crunchy, diamond-shaped dough.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff99",
+                            "recipeId": 630277,
+                            "price": 180
+                        },
+                        {
+                            "seqNo": 15,
+                            "itemId": 510716,
+                            "name": "Violet",
+                            "description": "Although it looks like a muffin, this treat is scented with the mild taste of taro. Hidden inside is a hollow interior with taro-flavored mochi, a soft, gooey rice paste.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9933ff",
+                            "recipeId": 410157,
+                            "price": 270
+                        },
+                        {
+                            "seqNo": 16,
+                            "itemId": 1056131,
+                            "name": "Matcha Bun",
+                            "description": "This Japanese inspired matcha green tea bun is filled with creamy matcha custard and it's simply beyond adorable!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#009900",
+                            "recipeId": 752960,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 17,
+                            "itemId": 526105,
+                            "name": "Red Bean",
+                            "description": "A traditional favorite, featuring a center filling of sweet red bean paste.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff0000",
+                            "fontColor": "#ffffff",
+                            "recipeId": 421937,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 18,
+                            "itemId": 527695,
+                            "name": "R/BeanMochi",
+                            "description": "A cousin to our red bean bun, this sesame-topped bun contains sweet red bean paste and glutinous mochi.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 423049,
+                            "price": 230
+                        },
+                        {
+                            "seqNo": 19,
+                            "itemId": 1211740,
+                            "name": "Egyptian Butter",
+                            "description": "A fluffy and warm sweet Egyptian butter bread bun with a cup of milk/tea or coffee is the perfect quick breakfast or snack to boost energy.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 839380,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 20,
+                            "itemId": 1476759,
+                            "name": "Cinnamon Roll",
+                            "description": "Our version of the cinnamon roll is lightly sweetened with sugar, honey and filled with cinnamon. It's simply irresistible!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410156,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 21,
+                            "itemId": 1456565,
+                            "name": "Choc Danish",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410155,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 22,
+                            "itemId": 510705,
+                            "name": "Hokkaido*",
+                            "description": "This soft and pillowy Japanese cupcake is filled with a dollop of vanilla buttercream.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410146,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 23,
+                            "itemId": 525373,
+                            "name": "Plain Crois",
+                            "description": "A classic buttery & flaky croissant with a lot of puff pastry that can accompany with almost any meal.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 421302,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 24,
+                            "itemId": 510706,
+                            "name": "Pineapple CK",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff00",
+                            "recipeId": 410147,
+                            "price": 400
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16399,
+            "name": "Savory Bread",
+            "seqNo": 8,
+            "enabledOLO": "2021-04-12T16:12:10.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39496,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 510693,
+                            "name": "Blk Pepper Ck Puff",
+                            "description": "This pastry features tender black pepper chicken sheathed in a light, flaky puff with a dusting of almond flakes on top.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410134,
+                            "price": 350
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 510692,
+                            "name": "Curry Ck Puff",
+                            "description": "Heart chicken smothered in curry sauce in a soft, flaky turnover-shaped pastry.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410133,
+                            "price": 350
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 532472,
+                            "name": "Curry Ck Bun",
+                            "description": "A round bun that hides chicken cooked in a spice-filled curry sauce and sprinkled with wheat germ.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 427493,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 510694,
+                            "name": "BBQ Pork Bun",
+                            "description": "Pork tossed in a tangy Asian BBQ sauce folded within layers of puff pastry.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 410135,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 903121,
+                            "name": "pork sung roll",
+                            "description": "Crunchy, melt-in-your-mouth dried shredded pork floss are stuffed into this roll, making for a savory experience.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 664515,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 851320,
+                            "name": "Pork Sung Bun",
+                            "description": "This small, oblong bun is covered in crunchy melt-in-your-mouth dried, shredded pork floss.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 633121,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 510697,
+                            "name": "Spring Onion",
+                            "description": "This vegetarian treat includes diced green onions enclosed in a soft bun for a sweet yet peppery taste.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff33",
+                            "recipeId": 410129,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 1534299,
+                            "name": "Garlic Cheese",
+                            "description": "This garlic cheese bun is perfectly delicious with a light sprinkle of chopped parsley. It's a good savory choice for breakfast!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 410130,
+                            "price": 200
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 784555,
+                            "name": "Sweet Corn and Ham",
+                            "description": "Sliced ham and corn seasoned with pepper, this savory treat is perfect for breakfast.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 592374,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 525367,
+                            "name": "Hot Dog Cheese",
+                            "description": "Sausage rolled and baked in bread with three different cheeses.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff00",
+                            "recipeId": 421297,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 510687,
+                            "name": "Ham and Cheese",
+                            "description": "Sliced ham and white cheese seasoned with pepper. This savory treat is perfect for breakfast.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410127,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 527692,
+                            "name": "Spring Dog",
+                            "description": "Our homage to the All-American staple includes chunks of hot dog and diced green onions baked within a soft bun.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff33",
+                            "recipeId": 423046,
+                            "price": 275
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 1174739,
+                            "name": "Mozarella",
+                            "description": "Can you imagine the the taste of the melting cheese when you bite into the bun? It's best to serve hot, reheat in the microwave, toaster oven or oven for the true melting experience!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 821251,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 1544056,
+                            "name": "Spinach and Cheese",
+                            "description": "Your kids hate vegetable?\r\nTry our first green bun, colored with fresh spinach juice, topped with fresh spinach and cheddar cheese!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00ff00",
+                            "recipeId": 1063138,
+                            "price": 220
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 1554938,
+                            "name": "Thai Chili",
+                            "description": "Try our new Thai Chili Bun, with fragrant chili sauce stir fry with belacan shrimp paste, ground chicken and egg, enveloped in our signature soft bun! ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#cc0000",
+                            "recipeId": 1069967,
+                            "price": 250
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 29943,
+            "name": "Salad",
+            "seqNo": 11,
+            "enabledOLO": "2020-09-02T20:05:33.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 69926,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 1106052,
+                            "name": "Asian Garden",
+                            "description": "Grilled chicken, spring mix, baby spinach, European cucumbers, roasted almonds, shredded carrots, and fried wontons with a Sesame ginger dressing.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 432250,
+                            "price": 645
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 1106053,
+                            "name": "Four Berries Salad",
+                            "description": "Spring mix, chopped romaine, blueberries, blackberries, strawberries, raspberries and roasted walnuts with Pineapple dressing.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 423366,
+                            "price": 850
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 1106055,
+                            "name": "Caesar",
+                            "description": "Grilled chicken, chopped romaine lettuce, Parmesan cheese, and garlic croutons with Caesar dressing.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 432253,
+                            "price": 645
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 1106056,
+                            "name": "Avocado Tomato Salad",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 632012,
+                            "price": 895
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 1106057,
+                            "name": "Fresh Spinach",
+                            "description": "Baby spinach, roasted walnuts, mandarin oranges, fresh sliced strawberries, dried cranberries and feta cheese with a Raspberry vinaigrette dressing.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 432251,
+                            "price": 850
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16394,
+            "name": "Sandwich",
+            "seqNo": 12,
+            "enabledOLO": "2020-09-02T20:04:28.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39491,
+                    "name": "Sandwich",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 543079,
+                            "name": "SH (Bulgogi)",
+                            "description": "Fresh Angus beef made with a Bulgogi sauce, cheddar cheese, pickled carrot, baby spinach, sliced cucumbers, our homemade slaw, and avocado topped with out organic whole wheat bun.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 436822,
+                            "price": 825
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 551288,
+                            "name": "Bibimbap",
+                            "description": "A Bulgogi burger topped with stir-fried carrots, sesame seasoned bean sprouts and spinach, and a fried egg, drizzled with our house made sauce on our homemade whole-wheat bun.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 442667,
+                            "price": 995
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 543080,
+                            "name": "Tofu Burger",
+                            "description": "Pan-fried tofu, portabella mushroom, baby spinach, roasted bell pepper, red onion, avocado, cumcumber, balsamic glase, and Sweet Hut sauce,",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 436832,
+                            "price": 725
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 1166348,
+                            "name": "Cheese Burger",
+                            "description": "Seasoned patty on a whole wheat bun includes mayo, lettuce, tomato, red onion and pickles",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 817676,
+                            "price": 750
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 543082,
+                            "name": "Lemon Pork",
+                            "description": "Charbroiled lemon grass pork, pickled carrots, sliced jalapenos, and cilantro with a homemade sauce served on a fresh baked Hoagie.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 436821,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 543083,
+                            "name": "Bulgogi Cheese",
+                            "description": "Thinly sliced sirloin steak, grilled portabella mushrooms and onions, topped with provolone cheese, drizzled with Bulgogi sauce served on a fresh baked Hoagie spread with a light layer of our homemade mayo.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 436823,
+                            "price": 695
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 543085,
+                            "name": "Miso Sesame",
+                            "description": "Grilled chicken breast or steak topped with pepper jack cheese, green onions top a freshly baked Hoagie roll with a thinly spread layer of Miso-sesame mayo.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 436825,
+                            "price": 695
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 543088,
+                            "name": "Chipotle Ck",
+                            "description": "Grilled chicken breast, baby spinach, roasted bell pepper, cilantro, and provolone cheese on a fresh baked Ciabatta spread with chipotle mayo.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 436828,
+                            "price": 695
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 543089,
+                            "name": "Artichoke Tk",
+                            "description": "Sliced smoked turkey, Swiss cheese, and baby spinach accompanied by artichoke pesto on our freshly baked Ciabatta.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 436829,
+                            "price": 665
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 543090,
+                            "name": "Spy Bulgogi Ck",
+                            "description": "Grilled marinated chicken breast with Bulgogi sauce, baby spinach, caramelized onion, roasted bell pepper, and pepper jack cheese with Sriracha mayo.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 436830,
+                            "price": 675
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 576736,
+                            "name": "Portabella Mushroom",
+                            "description": "Portabella mushroom, baby spinach, roasted bell pepper, sliced red onion, avocado, and sliced cucumbers, top our freshly baked Ciabatta with a balsamic glaze and our homemade sauce.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff00",
+                            "recipeId": 461830,
+                            "price": 650
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 544920,
+                            "name": "Turkey Sandwich",
+                            "description": "Smoked turkey, Swiss cheese, spinach, sliced tomato, mayonnaise, and Dijon mustard on our freshly baked multi-grain bread.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 438114,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 544922,
+                            "name": "Turkey Bacon",
+                            "description": "Smoked turkey, bacon, Swiss cheese, spinach, sliced tomato, mayonnaise, and Dijon mustard on our freshly baked multi-grain bread.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 438116,
+                            "price": 695
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 544923,
+                            "name": "Chicken Salad",
+                            "description": "Chicken salad made with grilled chicken breast, red grapes, celery, dried cranberries, and roasted almonds, sit on top of spinach, and sliced tomatoes in between slices of fresh baked multi-grain bread or a croissant.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 438117,
+                            "price": 625
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 834745,
+                            "name": "Avocado BLT",
+                            "description": "All-time favorite; avocado, bacon, lettuce and sliced tomatoes between our multi-grain bread.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 625128,
+                            "price": 695
+                        },
+                        {
+                            "seqNo": 15,
+                            "itemId": 834746,
+                            "name": "Avocado Toast",
+                            "description": "Avocado, sliced tomatoes and lettuce between our multi-grain bread.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 625129,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 16,
+                            "itemId": 1181114,
+                            "name": "BLT + egg",
+                            "description": "All-time favorite; avocado, egg, bacon, lettuce and sliced tomatoes between our multi-grain bread.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#66ffff",
+                            "recipeId": 824675,
+                            "price": 595
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16395,
+            "name": "Snacks",
+            "seqNo": 13,
+            "enabledOLO": "2014-10-09T15:36:05.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39492,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 1190159,
+                            "name": "Bao Tofu",
+                            "description": "Unique miniature crispy bao, crispy on the outside and fluffy on the inside, A perfect combination with our soft tofu, pickled carrot, avocado, green leaf",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 828642,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 1190157,
+                            "name": "Bao Unagi",
+                            "description": "Unique miniature crispy bao, crispy on the outside and fluffy on the inside, A perfect combination with unagi, cucumber, avocado and green leaf.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 828641,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 1190156,
+                            "name": "Bao Lemon Pork",
+                            "description": "Unique miniature crispy bao, crispy on the outside and fluffy on the inside, A perfect combination with our lemongrass pork, pickled carrot, cilantro, green leaf",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 828644,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 510723,
+                            "name": "Salt Pepper Nuggets",
+                            "description": "A Taiwanese favorite, our tender chicken nuggets are lightly buttered and seasoned with salt and black pepper served on a bed of basil leaves for a savory treat. Choose from non-spicy, mild, medium or spicy!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410164,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 782325,
+                            "name": "Firecracker Shrimp",
+                            "description": "These rolls of succulent shrimp meat are intricately wrapped in crispy tofu skin, popping in your mouth once bitten into for an addictive eating experience.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff99ff",
+                            "recipeId": 591307,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 510725,
+                            "name": "Crispy Tofu",
+                            "description": "A vegetarian favorite, paired with mango sauce. Beneath its firm, crispy shell lays soft, silky tofu. You may never eat tofu prepared another way again!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410166,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 604397,
+                            "name": "Fish Cake",
+                            "description": "Chewy fish tofu covered with cumin powder.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 481538,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 510724,
+                            "name": "Samosa",
+                            "description": "Ubiquitous throughout India, our version of the popular vegetarian staple features mashed check peas, spiced potatoes, onions, and lentils wrapped and fried in a crunchy shell served with a tangy curry sauce on the side.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410165,
+                            "price": 650
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 782324,
+                            "name": "Spring Roll",
+                            "description": "Crispy vegetarian rolls served with homemade sweet and sour sauce.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 591309,
+                            "price": 475
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 547071,
+                            "name": "Fries (Plain)",
+                            "description": "A classic favorite: crispy julienne cut potato fries dusted with fry seasoning.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 439553,
+                            "price": 350
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 604396,
+                            "name": "Sweet Potato Fries",
+                            "description": "A variation of ordinary fries and favorite of sweet potato fans, copious amounts of cut sweet potato are fried until crispy and seasoned sparingly with salt and pepper.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff9900",
+                            "recipeId": 481537,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 510728,
+                            "name": "Bacon Cheese Fries",
+                            "description": "Classic julienne cut fries smothered in generous heaps of melted cheese, bacon, and spring onions. The ultimate pick-me-up for any occasion.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410169,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 1479779,
+                            "name": "Waffle Bacon Cheese",
+                            "description": "Classic potatoes cut in a waffle pattern smothered in generous heaps of melted cheese, bacon, and spring onions. The ultimate pick-me-up for any occasion.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 1024181,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 1469998,
+                            "name": "waffle Fries",
+                            "description": "Crispy waffle fries ~ potatoes cut in a waffle pattern make the perfect base for a plethora of toppings and sauces. These fries are crunchy, delicious and the perfect side on any plate.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 1013988,
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 1339690,
+                            "name": "Gourmet Chips",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 911509,
+                            "price": 450
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16400,
+            "name": "Dessert",
+            "seqNo": 16,
+            "enabledOLO": "2014-10-09T15:38:17.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39497,
+                    "name": "Desserts",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 536025,
+                            "name": "MacaronsGift",
+                            "description": "These small, dainty cookies have big flavors. This light and airy cookie is filled with flavored butter creams. Flavors include; mocha, salted caramel, mango, strawberry, blueberry, and chocolate ganache.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 430372,
+                            "price": 1500
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 536026,
+                            "name": "Macarons - 2",
+                            "description": "These small, dainty, cookies have big flavors. This light and airy cookie is filled with flavored butter creams. Flavors include; mocha, salted caramel, mango, strawberry, blueberry and chocolate ganache.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 430373,
+                            "price": 380
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 510667,
+                            "name": "Mini Fruit Tart",
+                            "description": "Dessert for one, our mini fruit tart is a medley of strawberries, blueberries,and kiwis atop a rich cream in a baked pastry shell.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410113,
+                            "price": 175
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 525397,
+                            "name": "Bluebry tart",
+                            "description": "Blueberry purée swirled with a cheesecake filled tart shell for a cute bite-sized treat!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#0099ff",
+                            "recipeId": 421322,
+                            "price": 295
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 530455,
+                            "name": "ChocoGanach",
+                            "description": "A rich chocolate ganache layered above a classic cheesecake, with a crushed Oreo cookie crust.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#660000",
+                            "fontColor": "#ffffff",
+                            "recipeId": 426161,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 510656,
+                            "name": "Strwbry Chee",
+                            "description": "A combination of cheesecake and strawberries creates an impeccable harmony, and is drizzled with a light strawberry sauce.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff99ff",
+                            "recipeId": 409345,
+                            "price": 595
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 510666,
+                            "name": "Midnight Lady",
+                            "description": "Chocolate chiffon cake filled with walnuts layered with chocolate buttercream, chocolate ganache and covered in a chocolate glaze. Warning: Highly Seductive!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 410112,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 510670,
+                            "name": "Red Velvet Cake",
+                            "description": "A traditional matching of luscious cream cheese filling and a vibrant red chocolate cake.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff0033",
+                            "recipeId": 410121,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 1087947,
+                            "name": "Caramel Brulee",
+                            "description": "This creme brulee cake takes all the elements of a traditional creme brulee and turns them into a delicious layer cake, tops with caramelized glaze.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffcc33",
+                            "recipeId": 770481,
+                            "price": 395
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 525414,
+                            "name": "Blck Forest",
+                            "description": "Chocolate chiffon cake layered with whipped cream and dark cherries soaked in brandy.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#000000",
+                            "fontColor": "#ffffff",
+                            "recipeId": 421342,
+                            "price": 475
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 525410,
+                            "name": "StrwbrryYogurtS",
+                            "description": "Vanilla chiffon cake with a layer of creamy yogurt-based strawberry mousse. Strawberry jam paired with fresh strawberries lay atop the cake for a delicate sweetness.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff99ff",
+                            "recipeId": 421338,
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 510665,
+                            "name": "Mango Mousse S",
+                            "description": "This cake highlights a mango mousse layered between vanilla chiffon cake and topped with fresh mango.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 410111,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 510669,
+                            "name": "Oreo Mousse",
+                            "description": "Crushed Oreos folded into a sweet mousse, topped with an Oreo.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 410119,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 510671,
+                            "name": "Tiramisu Cup",
+                            "description": "This classic Italian dessert contains cocoa and espresso that is blanketed in mascarpone and dusted lightly with cocoa powder.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 410122,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 1210582,
+                            "name": "Hazelnut Mousse",
+                            "description": "This hazelnut mousse rests on top of a bed of silky smooth chiffon cake.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 838847,
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 15,
+                            "itemId": 510661,
+                            "name": "Chocolate Mousse",
+                            "description": "This delectable milk chocolate mousse rests on top of a bed of silky smooth chiffon cake.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 409350,
+                            "price": 550
+                        },
+                        {
+                            "seqNo": 16,
+                            "itemId": 532473,
+                            "name": "Straw Pudding",
+                            "description": "A light custard pudding on top of a light strawberry purée.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffffff",
+                            "recipeId": 427494,
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 17,
+                            "itemId": 510674,
+                            "name": "Caramel Pudding",
+                            "description": "Creamy egg custard on top of a light caramel sauce. When stirred together, this dessert is the perfect treat!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffcc00",
+                            "recipeId": 410125,
+                            "price": 450
+                        },
+                        {
+                            "seqNo": 18,
+                            "itemId": 510662,
+                            "name": "Creme Brulee",
+                            "description": "A rich custard based finished with a torched caramelized sugar top.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffcc00",
+                            "recipeId": 409351,
+                            "price": 395
+                        },
+                        {
+                            "seqNo": 19,
+                            "itemId": 548464,
+                            "name": "Cream Puff",
+                            "description": "Our large puff is filled with sweet cream and stuffed with strawberries!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff3399",
+                            "recipeId": 440669,
+                            "price": 495
+                        },
+                        {
+                            "seqNo": 20,
+                            "itemId": 836419,
+                            "name": "Jap Cake Mini",
+                            "description": "This light and fluffy mini Japanese Cheesecake is a perfect dessert for a real cheesecake lover. It's a melt-in-your-mouth combination of creamy cheesecake and airy soufflé. ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 626154,
+                            "price": 425
+                        },
+                        {
+                            "seqNo": 21,
+                            "itemId": 1530554,
+                            "name": "Japanese Cheese",
+                            "description": "This light and fluffy Japanese Cheesecake is a perfect dessert for sharing. It's a melt-in-your-mouth combination of creamy cheesecake and airy soufflé. ",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 532704,
+                            "price": 1200
+                        },
+                        {
+                            "seqNo": 22,
+                            "itemId": 1634196,
+                            "name": "Fruit Ck",
+                            "description": "Vanilla cake, sweet cream, and fruit filling. Perfect for all occasions.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 517066,
+                            "price": 450
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16401,
+            "name": "Whole Cake",
+            "seqNo": 17,
+            "enabledOLO": "2018-01-30T16:20:18.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 39498,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 510678,
+                            "name": "Tiramisu 6\"",
+                            "description": "(6\" serve 8 people) This classic Italian dessert is made for coffee and cocoa lovers! We start off by soaking sponge cake in mixture of rich nutty espresso, then layered with lightly sweetened marscapone cheese and finally dusted with cocoa powder.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 409337,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116577,
+                                    "charge": 2800
+                                }
+                            ],
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 510686,
+                            "name": "Taro 6\"",
+                            "description": "(6\" serve 8 people) In this cake, we fold taro root together with sweet cream to give it a smooth texture. We then layer it on top of taro scented cake so there is a bit of fresh taro in every bite.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9933ff",
+                            "recipeId": 409344,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116579,
+                                    "charge": 5000
+                                }
+                            ],
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 1158045,
+                            "name": "Fruit Cake 6''",
+                            "description": "(6\" serve 8 people) This cake highlights the natural sweetness of fruit as we layer together pillowy vanilla sponge cake, fresh cream that has been whipped into soft peaks and topped with assorted fresh fruits.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 813245,
+                            "price": 2800
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 510683,
+                            "name": "Matcha 6\"",
+                            "description": "(6\" serve 8 people) Our fragrant matcha cake is created by baking matcha powder into our cake base. We then offset the slight bitterness of the matcha green tea by adding a layer of sweet cream. Green Tea Lovers are going to be obsessed with it!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#669933",
+                            "recipeId": 409341,
+                            "price": 2800
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 510685,
+                            "name": "Mango Mousse 6\"",
+                            "description": "(6\" serve 8 people) It's all about mango! This cake highlights a mango-flavored chiffon cake layered between sweet light cream, finished with a rim of mango lace and topped with freshly cut diced mango. A cake that is sure to impress!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff66",
+                            "recipeId": 409343,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116577,
+                                    "charge": 2800
+                                }
+                            ],
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 581378,
+                            "name": "Red Velvet 6\"",
+                            "description": "(6\" serve 8 people) A traditional Southern staple known for its vibrant red color cocoa based cake. It is reinvented as we emphasize the importance of cream cheese in every bite with thinner layers of cake and more layers of cream cheese filling.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff3300",
+                            "recipeId": 465413,
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 510677,
+                            "name": "Blackforest 6\"",
+                            "description": "(6\" serve 8 people) With this cake, you no longer have to choose between chocolate and fruit. We start by soaking sweet black cherries in brandy and then fold into sweet cream.This mix becomes the filling between layers of chocolate cake.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#000000",
+                            "fontColor": "#ffffff",
+                            "recipeId": 409336,
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 510682,
+                            "name": "Chocolate Mousse 6\"",
+                            "description": "(6\" serve 8 people) We start with a base of lightly sweetened chocolate sponge cake layered with fluffy creamy chocolate mousse. We then topped with layer of decadent Chocolate Ganache and finished with a rim of chocolate lace for an elegant design!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 409338,
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 510684,
+                            "name": "Mocha Walnut 6\"",
+                            "description": "(6\" serve 8 people) We create the mocha favor by baking espresso and cocoa into our sponge cake. We then infuse sweet cream with espresso and sweet Khalua which is finished with roasted walnuts that adds a nice nutty layer to our mocha cake.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 409342,
+                            "price": 2800
+                        },
+                        {
+                            "seqNo": 9,
+                            "itemId": 542214,
+                            "name": "Midnight Lady 6\"",
+                            "description": "(6\" serve 8 people) Light and fluffy sponge cake partnered with crunchy roasted walnuts that we fold into a sweet chocolate buttercream, is dressed in a layer of chocolate ganache that is sure to seduce cake lovers everywhere as its name suggests.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 435993,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116580,
+                                    "charge": 7500
+                                },
+                                {
+                                    "choiceId": 116578,
+                                    "charge": 4000
+                                },
+                                {
+                                    "choiceId": 116579,
+                                    "charge": 5000
+                                },
+                                {
+                                    "choiceId": 116577,
+                                    "charge": 2800
+                                }
+                            ],
+                            "price": 2800
+                        },
+                        {
+                            "seqNo": 10,
+                            "itemId": 510676,
+                            "name": "Strawberry Yogurt 6\"",
+                            "description": "(6\" serve 8 people) In this cake, we partnered strawberry puree and tart yogurt to create a smooth and creamy mousse. We then layer it on our soft vanilla sponge cake and top off with peaks of sweet strawberry cream and a bit of strawberry puree.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff66ff",
+                            "recipeId": 409334,
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 11,
+                            "itemId": 510681,
+                            "name": "Strawberry Cheese 6\"",
+                            "description": "(6\" serve 8 people) Hidden inside this cheesecake is a sweet strawberry swirl that is baked into the cheesecake giving you a taste of strawberry in every bite. Topped with fresh strawberries, this cheesecake is perfect for any party at any age.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff99ff",
+                            "recipeId": 409340,
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 12,
+                            "itemId": 542213,
+                            "name": "Chocolate Ganache 6\"",
+                            "description": "(6\" serve 8 people) Rich dark chocolate and cheesecake come together to form this doubly decadent combination. In this cake you will find both a layer of dark chocolate cheesecake and a layer of traditional cheesecake partnered with Oreo crust!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 435992,
+                            "choiceCharges": [
+                                {
+                                    "choiceId": 116579,
+                                    "charge": 5000
+                                },
+                                {
+                                    "choiceId": 116577,
+                                    "charge": 3200
+                                },
+                                {
+                                    "choiceId": 116578,
+                                    "charge": 4200
+                                }
+                            ],
+                            "price": 3200
+                        },
+                        {
+                            "seqNo": 13,
+                            "itemId": 1535221,
+                            "name": "Strawberry Cake 6\"",
+                            "description": "Strawberry Cake",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 578421,
+                            "price": 3000
+                        },
+                        {
+                            "seqNo": 14,
+                            "itemId": 1636899,
+                            "name": "Mothers love",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "recipeId": 1127288,
+                            "price": 3000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "menuId": 16854,
+            "name": "Swiss Roll",
+            "seqNo": 18,
+            "enabledOLO": "2020-03-18T19:53:42.000Z",
+            "groupSideButtons": true,
+            "sections": [
+                {
+                    "seqNo": 0,
+                    "sectionId": 40338,
+                    "name": "Items",
+                    "items": [
+                        {
+                            "seqNo": 0,
+                            "itemId": 843396,
+                            "name": "Slice SR (Taro)",
+                            "description": "In this cake, we fold taro root together with sweet cream to give it a smooth texture. We then layer it on top of taro scented cake roll so there is a bit of taro in every bite.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9933ff",
+                            "recipeId": 629234,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 1,
+                            "itemId": 843395,
+                            "name": "Slice SR (Mocha)",
+                            "description": "We create the mocha favor by baking espresso and cocoa into our sponge cake. We then infuse sweet cream with espresso that adds a hint of coffee to our mocha swiss roll.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663333",
+                            "fontColor": "#ffffff",
+                            "recipeId": 629233,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 2,
+                            "itemId": 903042,
+                            "name": "Slice SR (Matcha)",
+                            "description": "Our fragrant matcha cake roll is created by baking matcha powder into our cake base. We then offset the slight bitterness of the matcha green tea by adding a layer of adzudki red bean sweet cream.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#00cc00",
+                            "recipeId": 664386,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 3,
+                            "itemId": 1113283,
+                            "name": "Slice SR (black Forest)",
+                            "description": "With this cake, you no longer have to choose between chocolate and fruit. We start by soaking sweet black cherries and then fold into sweet cream. This cherry and sweet cream mix becomes the filling between chocolate sponge cake roll.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "recipeId": 789953,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 4,
+                            "itemId": 843392,
+                            "name": "Slice SR (Strawberry)",
+                            "description": "This is a delicate refreshing Swiss roll perfect for warm days of spring and summer. A soft vanilla sponge cake filled with strawberry puree, a perfect dessert that is loved by all!",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ff99ff",
+                            "recipeId": 629231,
+                            "price": 250
+                        },
+                        {
+                            "seqNo": 5,
+                            "itemId": 525401,
+                            "name": "Mocha Swiss Roll",
+                            "description": "Mocha chiffon cake rolled together with sweet mocha whipped cream, a coffee lovers dream.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#663300",
+                            "fontColor": "#ffffff",
+                            "recipeId": 421328,
+                            "price": 1200
+                        },
+                        {
+                            "seqNo": 6,
+                            "itemId": 525400,
+                            "name": "Matcha Swiss Roll",
+                            "description": "Matcha green tea chiffon cake rolled with an Azuki red bean filling.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#33ff66",
+                            "recipeId": 421329,
+                            "price": 1200
+                        },
+                        {
+                            "seqNo": 7,
+                            "itemId": 525398,
+                            "name": "Van Straw Roll",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#ffff99",
+                            "recipeId": 416478,
+                            "price": 1200
+                        },
+                        {
+                            "seqNo": 8,
+                            "itemId": 843400,
+                            "name": "Taro Swiss Roll",
+                            "description": "In this cake, we fold taro root together with sweet cream to give it a smooth texture. We then layer it on top of taro scented cake roll so there is a bit of taro in every bite.",
+                            "class1": "com.restoware.MainItem",
+                            "shortcut": true,
+                            "timeBased": true,
+                            "backgroundColor": "#9933ff",
+                            "fontColor": "#ffffff",
+                            "recipeId": 421325,
+                            "price": 1200
+                        }
+                    ]
+                }
+            ]
+        }
+    ]

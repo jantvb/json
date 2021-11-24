@@ -1,0 +1,8 @@
+[
+    {
+        "taxId": 789,
+        "name": "Sales Tax",
+        "percentage": 890,
+        "roundingMethod": 2
+    }
+]

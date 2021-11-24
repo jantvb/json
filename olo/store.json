@@ -1,0 +1,52 @@
+{
+    "batchNumber": 2392,
+    "name": "Sweet Hut Bakery & Cafe",
+    "shortName": "SH-Midtown ",
+    "telNumber": "404.600.4800",
+    "address": "933 Peachtree St #935",
+    "city": "Atlanta",
+    "state": "GA",
+    "postalCode": "30309",
+    "country": "US",
+    "timeZone": "US/Eastern",
+    "supportMessages": "Sold by: My POS Advisor",
+    "localeReceipt": "US",
+    "localeDisplay": "US",
+    "localeAnnouncer": "US",
+    "website": "www.sweethutbakery.com",
+    "locale": "US",
+    "currencyCode": "USD",
+    "logoLastModified": 1591793081929,
+    "logoPath": "logo_653_1591793081792.png",
+    "logoMimeType": "image/png",
+    "facebookPageId": 0,
+    "facebookAppId": 0,
+    "sold": "2014-10-03T04:00:00.000+0000",
+    "live": "2014-11-22T05:00:00.000+0000",
+    "closed": "2021-06-30T02:34:07.000+0000",
+    "created": "2014-10-06T15:44:39.000+0000",
+    "updated": "2021-06-30T12:14:07.000+0000",
+    "schedules": [
+        {
+            "scheduleId": 28902,
+            "startDate": "2021-03-20",
+            "endDate": "2022-03-23",
+            "startTime": "11:00",
+            "endTime": "20:00",
+            "days": "1111111"
+        }
+    ],
+    "oloschedules": [
+        {
+            "type": null,
+            "seqNo": 0,
+            "scheduleId": 28902,
+            "startDate": "2021-03-20",
+            "endDate": "2022-03-23",
+            "startTime": "11:00",
+            "endTime": "20:00",
+            "days": "1111111"
+        }
+    ],
+    "open": false
+}

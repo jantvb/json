@@ -1,0 +1,343 @@
+[
+    {
+        "comboGroupId": 3751,
+        "name": "Fries and Salad",
+        "items": []
+    },
+    {
+        "comboGroupId": 5371,
+        "name": "Sweet Platter",
+        "items": [
+            {
+                "itemId": 510700,
+                "recipeId": 410140,
+                "seqNo": 0,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 510701,
+                "recipeId": 410141,
+                "seqNo": 1,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 510704,
+                "recipeId": 410145,
+                "seqNo": 2,
+                "additionPrice": 0
+            }
+        ]
+    },
+    {
+        "comboGroupId": 2846,
+        "name": "Sandwich",
+        "items": [
+            {
+                "itemId": 543082,
+                "recipeId": 436821,
+                "seqNo": 0,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 544923,
+                "recipeId": 438117,
+                "seqNo": 1,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 543088,
+                "recipeId": 436828,
+                "seqNo": 2,
+                "additionPrice": 20
+            },
+            {
+                "itemId": 576736,
+                "recipeId": 461830,
+                "seqNo": 3,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 543079,
+                "recipeId": 436822,
+                "seqNo": 4,
+                "additionPrice": 175
+            },
+            {
+                "itemId": 543083,
+                "recipeId": 436823,
+                "seqNo": 5,
+                "additionPrice": 20
+            }
+        ]
+    },
+    {
+        "comboGroupId": 3750,
+        "name": "Drinks",
+        "items": [
+            {
+                "itemId": 511235,
+                "recipeId": 410545,
+                "seqNo": 0,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511236,
+                "recipeId": 410546,
+                "seqNo": 1,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511242,
+                "recipeId": 410552,
+                "seqNo": 2,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511234,
+                "recipeId": 410544,
+                "seqNo": 3,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511239,
+                "recipeId": 410549,
+                "seqNo": 4,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511243,
+                "recipeId": 410553,
+                "seqNo": 5,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511233,
+                "recipeId": 410543,
+                "seqNo": 6,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 686999,
+                "recipeId": 529642,
+                "seqNo": 7,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511244,
+                "recipeId": 410554,
+                "seqNo": 8,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 1008702,
+                "recipeId": 725911,
+                "seqNo": 9,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511237,
+                "recipeId": 410547,
+                "seqNo": 10,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511232,
+                "recipeId": 410542,
+                "seqNo": 11,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511238,
+                "recipeId": 410548,
+                "seqNo": 12,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511241,
+                "recipeId": 410551,
+                "seqNo": 13,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 590921,
+                "recipeId": 472601,
+                "seqNo": 14,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511719,
+                "recipeId": 410750,
+                "seqNo": 15,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 519274,
+                "recipeId": 416312,
+                "seqNo": 16,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 801330,
+                "recipeId": 603740,
+                "seqNo": 17,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 801331,
+                "recipeId": 603741,
+                "seqNo": 18,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511720,
+                "recipeId": 410753,
+                "seqNo": 19,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511716,
+                "recipeId": 410747,
+                "seqNo": 20,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 519476,
+                "recipeId": 416475,
+                "seqNo": 21,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 519263,
+                "recipeId": 410756,
+                "seqNo": 22,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511717,
+                "recipeId": 410748,
+                "seqNo": 23,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511721,
+                "recipeId": 410757,
+                "seqNo": 24,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 665251,
+                "recipeId": 515649,
+                "seqNo": 25,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 665252,
+                "recipeId": 515650,
+                "seqNo": 26,
+                "additionPrice": 0
+            },
+            {
+                "itemId": 511743,
+                "recipeId": 410635,
+                "seqNo": 27,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 525474,
+                "recipeId": 421408,
+                "seqNo": 28,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 525530,
+                "recipeId": 421462,
+                "seqNo": 29,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511741,
+                "recipeId": 410634,
+                "seqNo": 30,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511734,
+                "recipeId": 410629,
+                "seqNo": 31,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 659260,
+                "recipeId": 512261,
+                "seqNo": 32,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511736,
+                "recipeId": 410631,
+                "seqNo": 33,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511733,
+                "recipeId": 410630,
+                "seqNo": 34,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511740,
+                "recipeId": 410633,
+                "seqNo": 35,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511739,
+                "recipeId": 410632,
+                "seqNo": 36,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511583,
+                "recipeId": 410628,
+                "seqNo": 37,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511578,
+                "recipeId": 410623,
+                "seqNo": 38,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 525478,
+                "recipeId": 421415,
+                "seqNo": 39,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511579,
+                "recipeId": 410624,
+                "seqNo": 40,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 660339,
+                "recipeId": 512912,
+                "seqNo": 41,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 511581,
+                "recipeId": 410626,
+                "seqNo": 42,
+                "additionPrice": 100
+            },
+            {
+                "itemId": 1337729,
+                "recipeId": 910713,
+                "seqNo": 43,
+                "additionPrice": 0
+            }
+        ]
+    }
+]
