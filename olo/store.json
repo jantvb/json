@@ -8,6 +8,8 @@
     "state": "GA",
     "postalCode": "30309",
     "country": "US",
+    "lat": 34.52427775424181,
+    "lng": -117.9994703082028,
     "timeZone": "US/Eastern",
     "supportMessages": "Sold by: My POS Advisor",
     "localeReceipt": "US",
